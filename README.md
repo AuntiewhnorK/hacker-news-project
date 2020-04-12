@@ -9,8 +9,12 @@ This project was created with:
 
 [Miniconda3](https://docs.conda.io/en/latest/miniconda.html)
 
-[Jupyter Notebook (conda or pip install)](https://jupyter.org/install)
+[Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/)
 
 ## Project Status
 
-In Progress
+Finished online Dataquest version,
+will continue working with these next steps soon:
+* Determine if show or ask posts receive more points on average
+* Determine if posts created at a certain time are more likely to receive more points.
+* Compare your results to the average number of comments and points other posts receive.
